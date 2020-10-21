@@ -4,12 +4,7 @@
 소스코드는 다음과 같이 작성할 수 있습니다.
 
 ```C#
-public static void Main(){
-  Print();
-}
-
-
-public void Print(){
+void Print(){
   Console.WriteLine("Hello World!!")
 }
 
